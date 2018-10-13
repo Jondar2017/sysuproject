@@ -1,2 +1,0 @@
-# sysuproject
-sysu project
